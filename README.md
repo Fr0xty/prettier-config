@@ -7,13 +7,13 @@ My personal [Prettier](https://prettier.io/) configuration published as an NPM p
 ### 1. install the prettier config as devDependency
 ```
 npm install @fr0xty/prettier-config --save-dev
-yarn add @fr0xty/prettier-config --save-dev
+yarn add @fr0xty/prettier-config --dev
 ```
 
 ### 2. have prettier as devDependency
 ```
 npm install prettier --save-dev
-yarn add prettier -save-dev
+yarn add prettier --dev
 ```
 
 ### 3. add this line in package.json
