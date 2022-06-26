@@ -17,9 +17,9 @@ yarn add prettier -save-dev
 ```
 
 ### 3. add this line in package.json
-```json
+```jsonc
 {
-    //...
+    // ...
     "prettier": "@fr0xty/prettier-config"
 }
 ```
