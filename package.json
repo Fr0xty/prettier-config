@@ -1,6 +1,6 @@
 {
   "name": "@fr0xty/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fr0xty's Prettier code formatter configuration.",
   "main": "index.json",
   "keywords": [
@@ -9,6 +9,14 @@
     "javascript",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fr0xty/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fr0xty/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Fr0xty/prettier-config#readme",
   "author": "Fr0xty",
   "license": "MIT"
 }
