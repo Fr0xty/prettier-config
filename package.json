@@ -1,0 +1,15 @@
+{
+  "name": "@fr0xty/prettier-config",
+  "version": "1.0.0",
+  "description": "Fr0xty's Prettier code formatter configuration.",
+  "main": "prettierrc.json",
+  "keywords": [
+    "config",
+    "code-formatter",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Fr0xty",
+  "license": "MIT"
+}
+
