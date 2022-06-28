@@ -1,6 +1,6 @@
 {
   "name": "@fr0xty/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fr0xty's Prettier code formatter configuration.",
   "main": "index.json",
   "keywords": [
